@@ -53,4 +53,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/app-rds-compose-new!-with-actions:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/app-rds-compose-new-with-actions:latest
