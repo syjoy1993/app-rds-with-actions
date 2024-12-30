@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b3911bee-02b8-44e4-82e2-e7b0bac2b7bc" name="app-rds-with-actions">
+        <fileTransfer rootFolder="/home/ubuntu" accessType="SFTP" host="13.124.63.226" port="22" sshConfigId="ddd8c71e-6932-42f3-9fe8-712e36144490" sshConfig="ubuntu@13.124.63.226:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
