@@ -32,7 +32,7 @@ jobs:
       
       - name: Build, tag, and push docker image to Amazon ECR Public
         env:
-          REGISTRY: v9a7g5m6
+          REGISTRY: public.ecr.aws
           REGISTRY_ALIAS: ${{ secrets.ECR_ID }}
           REPOSITORY: first-ecr
           IMAGE_TAG: latest
