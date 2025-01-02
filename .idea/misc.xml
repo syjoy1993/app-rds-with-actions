@@ -8,8 +8,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="graalvm-jdk-21" project-jdk-type="JavaSDK" />
-  <component name="ProjectDetails"> <!-- 프로젝트 이름 추가 -->
+  <component name="ProjectDetails">
     <option name="name" value="AppRdsWithActions" />
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="graalvm-jdk-21" project-jdk-type="JavaSDK" />
 </project>

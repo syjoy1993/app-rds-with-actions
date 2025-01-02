@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/actions.iml" filepath="$PROJECT_DIR$/actions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/app-rds-with-actions.iml" filepath="$PROJECT_DIR$/.idea/app-rds-with-actions.iml" />
     </modules>
   </component>
 </project>
