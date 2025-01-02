@@ -22,7 +22,7 @@ public class ActionsController {
 	@PostMapping("/api/save1")
 	public String save1(@RequestBody Student student) {
 		actionsService.addStudent(student);
-		return "save " + student.getName();
+		return "save " + student.getName() + "good";
 	}
 
 }
