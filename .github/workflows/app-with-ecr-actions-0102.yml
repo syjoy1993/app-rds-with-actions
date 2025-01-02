@@ -1,3 +1,8 @@
+
+
+on:
+  workflow_dispatch:
+
 jobs:
   build-push-image:
     runs-on: ubuntu-latest
